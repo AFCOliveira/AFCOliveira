@@ -1,12 +1,12 @@
-
-<img align="center" style="margin-bottom:100px" width=100% src="![picture](https://github.com/AFCOliveira/AFCOliveira/assets/132096135/60eaa582-1a0a-4639-8888-ee54b7d7c4e4)" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/AFCOliveira/AFCOliveira/blob/assets/picture.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I love solving challenges using technology. <br><br> From frontend development using ReactJS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AFCOliveira&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-AFCOliveira.vercel.app/api/top-langs/?username=AFCOliveira&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=AFCOliveira&show_icons=true&theme=radical&layout=compact" />
+
  </div>
  
  &nbsp;
@@ -62,3 +62,4 @@
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
