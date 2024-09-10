@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/AFCOliveira/AFCOliveira/blob/assets/picture2.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">ull-stack development using ReactJS and Node.js. Today, I'm a <strong>back-end jr-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">Full-stack development using ReactJS and Node.js. Today, I'm a <strong>back-end jr-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AFCOliveira&theme=radical&mode=weekly" />
