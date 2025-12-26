@@ -4,7 +4,7 @@
 <p align="center">Full-stack development using ReactJS and Node.js. Today, I'm a <strong>back-end developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img src="https://streak-stats.demolab.com?user=AFCOliveira&theme=radical&hide_border=true" />
+<img width=55% src="https://streak-stats.demolab.com?user=AFCOliveira&theme=radical&hide_border=true" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=AFCOliveira&show_icons=true&theme=radical&layout=compact" />
 
  </div>
